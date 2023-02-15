@@ -8,3 +8,7 @@ Flexbox VS Grid
     mientras que Grid nos permite alinear en dos dimensiones a la vez, es bidimensional
     Tanto como css grid como flexbox se pueden trabajar en conjunto
 
+    Flexbox se usa mas para escalas pequeñas, agunas cards o cosas parecidas
+    Para elementos mas grandes como páginas con sus headers, navs o footers es mas recomendable usar grid y así ajustarlo a la pantalla con responsive
+
+    
