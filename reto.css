@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #a4a3a5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 600px;
+    height: auto;
+    margin: auto;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    margin: 50px 0px 10px 0px;
+    align-items: center;
+}
+header .mrjark-photo {
+    padding-left: 10px;
+}
+header .mrjark-photo img {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+}
+header .information {
+    padding-left: 40px;
+}
+header .information h1 {
+    margin-bottom: 8px;
+}
+
+/* MAIN */
+
+main .card-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+main .card-content p {
+    font-size: 18px;
+    margin-top: 40px;
+    font-weight: 500;
+}
+
+footer {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+footer .footer-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px ;
+}
+footer .footer-content p {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    border: 1px solid #f9ffff;
+    background: #f9ffff;
+    border-radius: 20px;
+    padding: 4px;   
+}
+footer .footer-content span img {
+    margin-left: 12px;
+}
