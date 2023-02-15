@@ -1,0 +1,10 @@
+Apilamiento:
+    Se basa en alinear los elementos dependiendo de su importancia en el eje x y para ello ha de ser diferente el z-index y a su vez, distinto de auto
+    mdn: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context
+
+Flexbox VS Grid
+
+    Flexbox solo nos permite alinear en una dimensión a la vez. O vertica u horizantal, es unidimensional 
+    mientras que Grid nos permite alinear en dos dimensiones a la vez, es bidimensional
+    Tanto como css grid como flexbox se pueden trabajar en conjunto
+
