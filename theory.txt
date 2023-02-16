@@ -11,4 +11,18 @@ Flexbox VS Grid
     Flexbox se usa mas para escalas pequeñas, agunas cards o cosas parecidas
     Para elementos mas grandes como páginas con sus headers, navs o footers es mas recomendable usar grid y así ajustarlo a la pantalla con responsive
 
-    
+-------
+
+Un poco de UI/UX
+
+Página para buenasa prácticas: 
+    - https://cantunsee.space
+    - https://polaris.shopify.com/design/design
+    - https://www.atsistemas.com/es/blog/que-son-tokens-diseno
+    - https://bit.dev
+    - https://www.shopify.com/blog/search?q=design
+    - 
+
+Los design systems es una manera de trabajar que permite reutilizr colecciones y componentes utilizando un conjunto de estándares
+
+Tienes que pensar siempre en una comunicación visual simple, intuitiva y atractiva
