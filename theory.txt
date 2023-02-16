@@ -26,3 +26,4 @@ Página para buenasa prácticas:
 Los design systems es una manera de trabajar que permite reutilizr colecciones y componentes utilizando un conjunto de estándares
 
 Tienes que pensar siempre en una comunicación visual simple, intuitiva y atractiva
+Debes pensar siempre en los Usuarios. Tienes que convertirte en uno de ellos para diseñar para él.
