@@ -81,10 +81,10 @@ main .playing .bar-time {
 }
 main .playing .bar-time-played {
     position: relative;
-    width: 190px;
+    width: 192px;
     border: 2px solid #fff;
     top: -8px;
-    left: 22px;
+    left: 20px;
 }
 main .playing .time {
     display: flex;
