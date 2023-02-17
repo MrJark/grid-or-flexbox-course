@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #292929;
+    color: #fff;
+    width: 414px;
+    height: 896px;
+    border: 1px solid #fff;
+}
+
+/* Header */
+header {
+    width: 100%;
+    padding: 30px;
+}
+header .header-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}
+header .header-container .arrow {
+    margin-left: 8px;
+    cursor: pointer;
+}
+header .header-container .arrow img{
+    width: 25px;
+}
+header .header-container p {
+    text-align: center;
+    letter-spacing: 2px;
+}
+header .header-container .points {
+    display: flex;
+    justify-self: flex-end;
+    cursor: pointer;
+}
+
+/* Main */
+main {
+    width: 100%;
+}
+/* Main/Photo-Description */
+main .container img {
+    width: 414px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px 20px 40px 20px;
+}
+main .information {
+    margin-left: 20px;
+}
+main .information h2 {
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+main .information p {
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+/* Main/Playing */
+main .playing .state-bar {
+    position: absolute;
+    width: 370px;
+    margin: 0px 20px 0px 20px;
+    border: 2px solid #7c7c7c;
+}
+main .playing .bar-time {
+    position: relative;
+    width: 8px;
+    height: 8px;
+    background: #fff;
+    border-radius: 100%;
+    top: -2px;
+    left: 210px;
+}
+main .playing .bar-time-played {
+    position: relative;
+    width: 190px;
+    border: 2px solid #fff;
+    top: -8px;
+    left: 22px;
+}
+main .playing .time {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px 0px 20px;
+}
+
+/* Main/Buttoms */
+main .buttoms {
+    display: flex;
+}
+main .buttoms .love img{
+    width: 30px;
+}
+main .buttoms .love {
+    width: auto;
+}
