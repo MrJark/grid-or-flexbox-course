@@ -27,3 +27,15 @@ Los design systems es una manera de trabajar que permite reutilizr colecciones y
 
 Tienes que pensar siempre en una comunicación visual simple, intuitiva y atractiva
 Debes pensar siempre en los Usuarios. Tienes que convertirte en uno de ellos para diseñar para él.
+
+-------------
+
+El futuro del CSS Grid
+
+    - Subgrid -> nos permiten heredar tracks, filas y columnas del elemento padre. Para llamarlo sería: " grid-template-columns: subgrid; "
+        Actualmente, 18/02/2023, solo se puede usar en firefox y safari, y solo en algunas versiones
+
+    - Masonry -> Nos permite tener un grid de columnas fijo pero con unas rows por columna de deferente tamaño, igual a pinterest. Y su nomenclatura se puede con: " grid-template-rows: mosonry; " y a las columnas le damos el tamaño y la cantidad que queramos.
+        Aunque al igual que el anterior, au no todos los browsers lo soportan
+
+Para saber si el navegador soporta o no la línea de código, tienes esta web: https://caniuse.com
